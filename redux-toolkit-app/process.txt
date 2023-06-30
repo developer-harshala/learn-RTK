@@ -1,0 +1,8 @@
+*Things used in project :- Style components,reduxjs toolkit,react-redux,react icon
+
+*Steps:- 
+1. Create a slice.
+>A function that accepts a "slice name",an initial state, and an object of reducer functions, and automatically generates action creators and action types that correspond to the reducers and state.
+(here we use "createSlice" method)
+>e.g.: slice name=userDetails and this slice contains add user , delete user and clear all users reducers(function).
+>
